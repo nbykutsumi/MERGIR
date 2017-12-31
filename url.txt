@@ -1,0 +1,3 @@
+https://disc2.gesdisc.eosdis.nasa.gov/data/MERGED_IR/GPM_MERGIR.1/2014/091/merg_2014040100_4km-pixel.nc4
+https://disc2.gesdisc.eosdis.nasa.gov/data/MERGED_IR/GPM_MERGIR.1/2014/091/merg_2014040101_4km-pixel.nc4
+
